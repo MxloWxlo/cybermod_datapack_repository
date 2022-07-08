@@ -15,4 +15,6 @@ Then open Pause Menu , Click On "Mod" and go to "Datapack Manager", Here you can
 
 AFTER You ENABLE YOUR DATAPACKS: Go back to Cybermod Settings and Find the "Refresh Datapack Cache" button. Hit that Button after you enabled the packs you got. You MUST Do this EVERYTIME you Enable a new pack or disable a pack for the changes to take effect.
 
+You can also enable Auto Refresh Datapack cache at Pause Menu, that will reload the cache everytime you enter in pause menu.
+
 if you want to make an clean install of every datapack that you have, hit Rebuild Datapack Cache
