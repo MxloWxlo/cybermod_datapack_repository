@@ -19,3 +19,4 @@ AFTER You ENABLE YOUR DATAPACKS: Go back to Cybermod Settings and Find the "Refr
 You can also enable Auto Refresh Datapack cache at Pause Menu, that will reload the cache everytime you enter in pause menu.
 
 if you want to make an clean install of every datapack that you have, hit Rebuild Datapack Cache
+
