@@ -20,7 +20,3 @@ You can also enable Auto Refresh Datapack cache at Pause Menu, that will reload 
 
 if you want to make an clean install of every datapack that you have, hit Rebuild Datapack Cache
 
-
-
-FOR DEV : 
-DONT POST DATAPACK HERE BUT IN THE "DATAPACK" FOLDER !!!!
